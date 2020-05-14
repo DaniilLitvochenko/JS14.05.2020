@@ -9,7 +9,8 @@
     
         echo '<h3>Задание 2</h3>';
         echo '<h1>Введите количество рублей</h1>';
-        echo '<input name="data" type="text">';
-        $roubles = 'data';
-        echo $roubles;
+        //echo '<input name="data" type="number">';
+        //$roubles = 'data';
+        $roubles = '<input name="data" type="number">';
+        echo '<h2>$roubles*80</h2>';
         ?>
