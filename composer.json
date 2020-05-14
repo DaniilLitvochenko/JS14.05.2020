@@ -1,0 +1,12 @@
+{
+    "name": "user/14.05.2020",
+    "require": {
+        "nesbot/carbon": "^2.34"
+    },
+    "authors": [
+        {
+            "name": "Daniil Litovchenko",
+            "email": "danay2000@inbox.ru"
+        }
+    ]
+}
